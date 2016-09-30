@@ -1,0 +1,118 @@
+body {
+  max-width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+    font-size: 18px;
+    background-color: #72ca76;
+}
+
+h1{
+  color: #002900;
+    text-align: center;
+    font-size: 46px;
+    font-family: 'Baloo Bhaina', cursive;
+    border: 23px groove #e65c00;
+    padding: 8px;
+    margin: 20px;
+    line height: 1.6px;
+}
+
+
+h2{
+  font-family: 'Hammersmith One', sans-serif;
+  font-weight: bold;
+  color:#002900;
+}
+
+h3{
+  font-family: 'Hammersmith One', sans-serif;
+  color:#002900;
+}
+
+
+p{
+  font-family: 'Hammersmith One', sans-serif;
+  color:#000000;
+}
+
+
+}
+section{
+  clear: both;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+img.left {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+
+}
+
+img.right {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+ol {
+    background: #e65c00;
+    font-family: 'Hammersmith One', sans-serif;
+    padding: 20px;
+
+
+}
+
+ul {
+    background: #e65c00;
+    font-family: 'Hammersmith One', sans-serif;
+    padding: 20px;
+
+}
+
+ol li {
+    background: #f98f55;
+    color: #006600
+    margin-left: 35px;
+    padding: 5px;
+}
+
+ul li {
+    background: #f98f55;
+    color: #006600
+    margin: 5px;
+    padding: 5px;
+
+
+}
+
+
+a:link {
+    color: #0e4f0b;
+
+}
+
+a:visited {
+    color: #e65c00;
+    text-decoration: underline;
+
+}
+
+a:hover {
+    color: #365239;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #be8019;
+}
